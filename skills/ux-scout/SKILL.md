@@ -494,10 +494,10 @@ When this skill is executed by a subagent (via the Agent tool), the subagent MUS
 
 ## Example Invocations
 
-- "Research how other moving apps handle claims resolution"
+- "Research how other apps handle user onboarding checklists"
 - "What are best practices for multi-step form wizards? Show me what competitors do"
 - "UX research for a scheduling calendar -- what patterns work?"
-- "How do logistics apps handle real-time status tracking? Research this before we design"
+- "How do productivity apps handle real-time collaboration? Research this before we design"
 - "Research notification center patterns -- I want to see what works before we prototype"
 - "/ux-scout quick -- dashboard filter patterns"
 - "/ux-scout 3 directions markdown -- onboarding flow best practices"

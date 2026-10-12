@@ -19,7 +19,7 @@ Part of the [Product Design Toolbox](../../README.md). See the [install steps](.
 ### With a prompt
 
 ```
-/ux-scout Research how other logistics apps handle real-time status tracking
+/ux-scout Research how other apps handle user onboarding checklists
 ```
 
 ### Without a prompt
@@ -58,10 +58,10 @@ Default is 5 directions. Request a different number (3-7):
 
 ### Example prompts
 
-- "Research how other moving apps handle claims resolution"
+- "Research how other apps handle user onboarding checklists"
 - "What are best practices for multi-step form wizards? Show me what competitors do"
 - "UX research for a scheduling calendar, what patterns work?"
-- "How do logistics apps handle real-time status tracking? Research this before we design"
+- "How do productivity apps handle real-time collaboration? Research this before we design"
 - "Research notification center patterns. I want to see what works before we prototype"
 - "/ux-scout quick markdown: dashboard filter patterns"
 
